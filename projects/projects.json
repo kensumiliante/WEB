@@ -40,13 +40,13 @@
     }
   },
   {
-    "name": "Flipkart PHP",
-    "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
+    "name": "Tarif Call PHP",
+    "desc": "Full-Stack Using LAMP Stack. With PHP at Joomla all major features and OTP authentication and voIP gateway.",
     "image": "flipkartphp",
     "category": "lamp",
     "links": {
-      "view": "https://github.com//Flipkart-Clone-PHP",
-      "code": "https://github.com//Flipkart-Clone-PHP"
+      "view": "https://github.com//tarif-plumrose call joomla PHP",
+      "code": "https://github.com/PHP"
     }
   },
   {
@@ -57,16 +57,6 @@
     "links": {
       "view": "https://.github.io/JavaScript-Projects",
       "code": "https://github.com//JavaScript-Projects"
-    }
-  },
-  {
-    "name": "Web UI Clones",
-    "desc": "Flipkart, YouTube, Instagram, Sololearn web UI clones using tailwindCSS.",
-    "image": "webuiclones",
-    "category": "mern",
-    "links": {
-      "view": "https://github.com//web-ui-clones",
-      "code": "https://github.com//web-ui-clones"
     }
   },
   {
@@ -107,16 +97,6 @@
     "links": {
       "view": "#",
       "code": "#"
-    }
-  },
-  {
-    "name": "WebChat Website",
-    "desc": "It's a web based chat app made using popular javaScript library Socket IO. Allows multiple users to connect.",
-    "image": "webchat",
-    "category": "mern",
-    "links": {
-      "view": "https://github.com//WebChat#webchat",
-      "code": "https://github.com//WebChat"
     }
   },
   {
