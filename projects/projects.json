@@ -1,35 +1,5 @@
 [
   {
-    "name": "NotyStack Android",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
-    "image": "notystackandroid",
-    "category": "android",
-    "links": {
-      "view": "https://www.linkedin.com/posts/_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com//notystack-android"
-    }
-  },
-   {
-    "name": "NewsBox Android",
-    "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
-    "image": "newsboxandroid",
-    "category": "android",
-    "links": {
-      "view": "https://www.linkedin.com/posts/_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com//newsbox-android"
-    }
-  },
-  {
-    "name": "Weatherly Android",
-    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
-    "image": "weatherlyandroid",
-    "category": "android",
-    "links": {
-      "view": "https://www.linkedin.com/posts/_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com//weatherly-android"
-    }
-  },
-  {
     "name": "Instagram MERN",
     "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
     "image": "instagrammern",
@@ -107,26 +77,6 @@
     "links": {
       "view": "https://crypto-tracker-react-project.netlify.app/",
       "code": "https://github.com//React-Projects/tree/main/crypto-tracker"
-    }
-  },
-  {
-    "name": "Hulu Website",
-    "desc": "Hulu website built using NextJS and tailwindCSS. API used TMDB, deployed on vercel.",
-    "image": "hulu",
-    "category": "mern",
-    "links": {
-      "view": "https://hulu-clone-.vercel.app/",
-      "code": "https://github.com//React-Projects/tree/main/hulu-clone"
-    }
-  },
-  {
-    "name": "Portfolio Website",
-    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
-    "image": "portfolio1",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "https://github.com//Portfolio-Website"
     }
   },
   {
