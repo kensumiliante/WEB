@@ -70,26 +70,6 @@
     }
   },
   {
-    "name": "Crypto Tracker",
-    "desc": "Crypto Tracker built using ReactJS and Chakra UI. Supports dark mode. API used coingecko.",
-    "image": "cryptotracker",
-    "category": "mern",
-    "links": {
-      "view": "https://crypto-tracker-react-project.netlify.app/",
-      "code": "https://github.com//React-Projects/tree/main/crypto-tracker"
-    }
-  },
-  {
-    "name": "Composey Website",
-    "desc": "Simple landing page website built using HTML, CSS, JavaScript and some JavaScript Libraries.",
-    "image": "composey",
-    "category": "basicweb",
-    "links": {
-      "view": "https://composey.netlify.app/",
-      "code": "https://github.com//LGMVIP-WebDev"
-    }
-  },
-  {
     "name": "Webview App",
     "desc": "It's an android app which uses web view component for displaying content. This app provides many different features.",
     "image": "webviewapp",
@@ -99,27 +79,7 @@
       "code": "https://github.com//Android-Webview"
     }
   },
-  {
-    "name": "PHP Banking Website",
-    "desc": "Basic Banking System based on PHP and MySQL database. Made with HTML, CSS, JavaScript and backend with PHP.",
-    "image": "tsfbank",
-    "category": "lamp",
-    "links": {
-      "view": "https://tsfbank.rf.gd",
-      "code": "https://github.com//TSF-Bank"
-    }
-  },
-  {
-    "name": "Bootstrap Portfolio",
-    "desc": "Portfolio built using HTML, CSS, Bootstrap, SASS and JavaScript. Customized Bootstrap using SCSS.",
-    "image": "bootstrapportfolio",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
+   {
     "name": "Bootstrap Template",
     "desc": "Basic website template built using HTML and Bootstrap.",
     "image": "bootstraptemplate",
@@ -157,16 +117,6 @@
     "links": {
       "view": "https://github.com//WebChat#webchat",
       "code": "https://github.com//WebChat"
-    }
-  },
-  {
-    "name": "Basic Banking App",
-    "desc": "It's an android app which uses SQLite to store user accounts data. It provides feature to simply transact amount.",
-    "image": "basicbank",
-    "category": "android",
-    "links": {
-      "view": "https://github.com//Basic_Banking_App#basic-banking-app",
-      "code": "https://github.com//Basic_Banking_App"
     }
   },
   {
@@ -223,16 +173,6 @@
     "name": "Resistor Color Codes",
     "desc": "Simply provides the color codes of resistors. Calculation information and about resistors.",
     "image": "resistercolor",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "KIA Info Website",
-    "desc": "Basic KIA webpage displays the info about seltos product range. Specs and Image Gallery.",
-    "image": "kiaweb",
     "category": "basicweb",
     "links": {
       "view": "#",
