@@ -40,18 +40,18 @@
     }
   },
   {
-    "name": "Post",
-    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
+    "name": "Post Blog Wp",
+    "desc": "Full-Stack Post Blog to Instagram clone built using MERN stack and realtime with wordpress of socket.iO",
     "image": "instagrammern",
     "category": "mern",
     "links": {
-      "view": "",
+      "view": "https://k3n5u.wordpress.com/",
       "code": "https://github.com/"
     }
   },
   {
-    "name": "MEAN",
-    "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
+    "name": "Dashboard Azure Test",
+    "desc": "Full-Stack with Admin Dashboard Test plan. MERN Stack WebApp, ready to use for business.",
     "image": "flipkartmern",
     "category": "mern",
     "links": {
@@ -60,8 +60,8 @@
     }
   },
   {
-    "name": "ResGen",
-    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
+    "name": "Mobile App CO2",
+    "desc": "Xamarin with JS Basic Resume CO2 emitions Generator which will generate customized resume in few minutes on your requirements.",
     "image": "resumegen",
     "category": "mern",
     "links": {
