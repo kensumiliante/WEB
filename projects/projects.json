@@ -11,7 +11,7 @@
   },
   {
     "name": "Azure dashboard",
-    "desc": "Full-Stack with Admin Dashboard and ROI ticket Gateway. MEAN Stack WebApp, ready to use for business.",
+    "desc": "Typescript with Admin azure Dashboard and conect ROI ticket Gateway. MEAN Stack WebApp, ready to use for business.",
     "image": "flipkartmern",
     "category": "mean",
     "links": {
@@ -20,8 +20,8 @@
     }
   },
   {
-    "name": "ResGen",
-    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
+    "name": "Mobile app SECMAS",
+    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your CO2 emitions.",
     "image": "resumegen",
     "category": "mern",
     "links": {
@@ -30,12 +30,12 @@
     }
   },
   {
-    "name": "React-Projects",
-    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
+    "name": "React-Projects community dev",
+    "desc": "Full-Stack project which is collection built on the React library.",
     "image": "reactprojects",
-    "category": "mern",
+    "category": "mean",
     "links": {
-      "view": "https://reactjsprojects.herokuapp.com/",
+      "view": "https://github.com/kensumiliante/info",
       "code": "https://github.com//React-Projects"
     }
   },
