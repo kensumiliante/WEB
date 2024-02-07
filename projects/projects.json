@@ -95,21 +95,12 @@
     "image": "jspro",
     "category": "basicweb",
     "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects"
+      "view": "kensumiliante.github.io/info",
+      "code": "https://github.com/"
     }
   },
   {
-    "name": "Web UI Clones",
-    "desc": "Flipkart, YouTube, Instagram, Sololearn web UI clones using tailwindCSS.",
-    "image": "webuiclones",
-    "category": "mern",
-    "links": {
-      "view": "https://github.com/jigar-sable/web-ui-clones",
-      "code": "https://github.com/jigar-sable/web-ui-clones"
-    }
-  },
-  {
+   
     "name": "Crypto Tracker",
     "desc": "Crypto Tracker built using ReactJS and Chakra UI. Supports dark mode. API used coingecko.",
     "image": "cryptotracker",
@@ -127,16 +118,6 @@
     "links": {
       "view": "https://hulu-clone-jigar-sable.vercel.app/",
       "code": "https://github.com/jigar-sable/React-Projects/tree/main/hulu-clone"
-    }
-  },
-  {
-    "name": "Portfolio Website",
-    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
-    "image": "portfolio1",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "https://github.com/jigar-sable/Portfolio-Website"
     }
   },
   {
@@ -319,24 +300,7 @@
       "code": "#"
     }
   },
-  {
-    "name": "Indian Temples",
-    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
-    "image": "templeweb",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Indian Temples",
-    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
-    "image": "templeweb",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
+
     }
   }
 ]
