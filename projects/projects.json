@@ -1,11 +1,11 @@
 [
   {
-    "name": "Blog Wp MERN",
-    "desc": "Full-Stack Post automatics Instagram built using MERN stack and realtime chat with the help of socket.iO",
+    "name": "Blog Wp",
+    "desc": "Full-Stack Post automatics wordpress built using MEAN stack and realtime with payment to newsletter and help of socket.iO",
     "image": "instagrammern",
     "category": "mean",
     "links": {
-      "view": "https://k3n5u.wordpress.com/",
+      "view": "https://kensumiliante.github.io/info/blog.html",
       "code": "https://github.com/kensumiliante"
     }
   },
