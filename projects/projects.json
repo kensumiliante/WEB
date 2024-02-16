@@ -20,8 +20,8 @@
     }
   },
   {
-    "name": "Mobile app SECMAS",
-    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your CO2 emitions.",
+    "name": "Xamarin Mobile app SECMAS",
+    "desc": "C# con .NET Basic in Xamarin Resume Generator which will generate customized resume in few minutes on your CO2 emitions. Proyect competitor microsoft imagine cup by UNA university",
     "image": "resumegen",
     "category": "mern",
     "links": {
