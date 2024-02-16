@@ -16,5 +16,6 @@ Particle.js, Typed.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 
 <h2>📬 Contact</h2>
 
-If you want to contact me, you can reach me through below handles. &nbsp;&nbsp;
+If you want to contact me, you can reach me through below handles. 
+
 <a href="https://kensumiliante.github.io/info/contact-es.html" target="_blank">**Contact Now** </a>
