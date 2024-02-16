@@ -16,7 +16,8 @@ Particle.js, Typed.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 
 <h2>📬 Contact</h2>
 
-If you want to contact me, you can reach me through below handles. &nbsp;&nbsp;<a href="https://kensumiliante.github.io/info/contact-es.html">
-<img src="https://imgs.search.brave.com/8Uo0g2zCqw1XKalIdpHWhCOd30pStgWY0R7Ff5c67h0/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9naWZj/b3AuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy9lbWFpbC5naWY.jpeg" width="80"></img></a>
+If you want to contact me, you can reach me through below handles. &nbsp;&nbsp;<a href="https://kensumiliante.github.io/info/contact-es.html"></a>
+
+<a><img src="https://imgs.search.brave.com/8Uo0g2zCqw1XKalIdpHWhCOd30pStgWY0R7Ff5c67h0/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9naWZj/b3AuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy9lbWFpbC5naWY.jpeg" width="80"></img></a>
 
 
