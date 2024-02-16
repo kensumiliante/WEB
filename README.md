@@ -17,4 +17,4 @@ Particle.js, Typed.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 <h2>📬 Contact</h2>
 
 If you want to contact me, you can reach me through below handles. &nbsp;&nbsp;
-<a href="[https://portafoliowebkensu.netlify.app/](https://kensumiliante.github.io/info/contact-es.html)https://kensumiliante.github.io/info/contact-es.html" target="_blank">**Contact Now** </a>
+<a href="https://kensumiliante.github.io/info/contact-es.html" target="_blank">**Contact Now** </a>
