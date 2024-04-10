@@ -5,7 +5,7 @@
     "image": "instagrammern",
     "category": "mean",
     "links": {
-      "view": "https://kensumiliante.github.io/info/blog.html",
+      "view": "https://kensumiliante.github.io/kensudev",
       "code": "https://github.com/miliante"
     }
   },
@@ -15,7 +15,7 @@
     "image": "flipkartmern",
     "category": "mean",
     "links": {
-      "view": "",
+      "view": "#",
       "code": "https://github.com/miliante"
     }
   },
@@ -25,17 +25,17 @@
     "image": "resumegen",
     "category": "mern",
     "links": {
-      "view": "",
+      "view": "#",
       "code": "https://github.com/kensumiliante"
     }
   },
   {
-    "name": "Projects Community Dev",
+    "name": "Projects react in the community",
     "desc": "Full-Stack project which is collection built on the React library.",
     "image": "reactprojects",
     "category": "mean",
     "links": {
-      "view": "https://github.com/kensumiliante/info",
+      "view": "https://kensumiliante.github.io/kensudev",
       "code": "https://github.com/"
     }
   },
@@ -61,7 +61,7 @@
   },
   {
     "name": "Ecommerce Tienda Geek App",
-    "desc": "It's a e-shop which uses web view component for displaying content. This app in MVC provides Json tycode deploy at free servers random data.",
+    "desc": "It's a e-shop which uses web view component for displaying content. This app in MVC provides Json tycode deploy at free at servers random data.",
     "image": "webviewapp",
     "category": "ASP.net",
     "links": {
@@ -105,7 +105,7 @@
     "image": "issuetrack",
     "category": "basicweb",
     "links": {
-      "view": "https://.github.io/JavaScript-Projects/projects/issuetracker",
+      "view": "#",
       "code": "#"
     }
   },
@@ -135,7 +135,7 @@
     "image": "saas",
     "category": "basicweb",
     "links": {
-      "view": "https://.github.io/JavaScript-Projects/api-projects/saas-jobs",
+      "view": "#",
       "code": "https://github.com//JavaScript-Projects/tree/main/api-projects/saas-jobs"
     }
   },
