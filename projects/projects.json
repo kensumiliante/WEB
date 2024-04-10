@@ -90,12 +90,12 @@
     }
   },
   {
-    "name": "Food Website",
-    "desc": "Basic food website landing page built using HTML, CSS, SASS, Bootstrap and jQuery.",
+    "name": "Food Book Website",
+    "desc": "Basic website for food book this page built using HTML, CSS, SASS, Bootstrap and jQuery.",
     "image": "foodwebsite",
     "category": "basicweb",
     "links": {
-      "view": "#",
+      "view": "https://kensumiliante.github.io/kensudev/1ERAmazonEbookElArteDeCocinarKmilia.html",
       "code": "#"
     }
   },
@@ -106,7 +106,7 @@
     "category": "basicweb",
     "links": {
       "view": "https://.github.io/JavaScript-Projects/projects/issuetracker",
-      "code": "https://github.com//JavaScript-Projects/tree/main/projects/issuetracker"
+      "code": "#"
     }
   },
   {
@@ -116,7 +116,7 @@
     "category": "lamp",
     "links": {
       "view": "https://github.com//PHP-Projects/tree/main/pblform#pbl-portal",
-      "code": "https://github.com//PHP-Projects/tree/main/pblform"
+      "code": "#"
     }
   },
   {
@@ -125,8 +125,8 @@
     "image": "linklist",
     "category": "basicweb",
     "links": {
-      "view": "https://.github.io/LinkList",
-      "code": "https://github.com//LinkList"
+      "view": "https://yourls.org/",
+      "code": "#"
     }
   },
   {
