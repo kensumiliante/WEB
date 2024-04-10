@@ -1,7 +1,7 @@
 [
   {
-    "name": "Blog Wp",
-    "desc": "Full-Stack Post automatics wordpress built using MEAN stack and realtime with payment to newsletter and help of socket.iO",
+    "name": "Blog wordpress",
+    "desc": "Full-Stack Post automatics wordpress built using plugins, MEAN stack and realtime with payment to newsletter and help of socket.iO",
     "image": "instagrammern",
     "category": "mean",
     "links": {
