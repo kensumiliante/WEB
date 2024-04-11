@@ -90,8 +90,8 @@
     }
   },
   {
-    "name": "Food Book Website",
-    "desc": "Basic website for food book this page built using HTML, CSS, SASS, Bootstrap and jQuery.",
+    "name": "Food menu´s Book Website",
+    "desc": "Basic website for a food menus book this page built using HTML, CSS, SASS, Bootstrap and jQuery.",
     "image": "foodwebsite",
     "category": "basicweb",
     "links": {
