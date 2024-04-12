@@ -29,6 +29,16 @@
       "code": "https://github.com/PHP"
     }
   },
+    {
+    "name": "Bootstrap Template",
+    "desc": "Basic website template built using HTML and Bootstrap.",
+    "image": "bootstraptemplate",
+    "category": "basicweb",
+    "links": {
+      "view": "https://kensumiliante.github.io/kensudev/",
+      "code": "#"
+    }
+  },
   {
     "name": "Azure dashboard",
     "desc": "Typescript with Admin azure Dashboard and conect ROI ticket Gateway. MEAN Stack WebApp, ready to use for business.",
@@ -57,16 +67,6 @@
     "links": {
       "view": "https://shopecommerce.netlify.app/viewstl",
       "code": "https://github.com/kensumiliante"
-    }
-  },
-   {
-    "name": "Bootstrap Template",
-    "desc": "Basic website template built using HTML and Bootstrap.",
-    "image": "bootstraptemplate",
-    "category": "basicweb",
-    "links": {
-      "view": "https://kensumiliante.github.io/kensudev/",
-      "code": "#"
     }
   },
   {
