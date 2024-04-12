@@ -50,16 +50,6 @@
     }
   },
   {
-    "name": "Layout to Hostelry Website",
-    "desc": "This website to restorant is specially build to showcase all major javaScript projects. All my course based projects are in it.",
-    "image": "jspro",
-    "category": "basicweb",
-    "links": {
-      "view": "https://stupendous-rest.netlify.app/",
-      "code": "https://kensumiliante.github.io/kensudev/DISE%C3%91OWEBSHOSTELERIA_Diplomadeaprovechamiento.html"
-    }
-  },
-  {
     "name": "Ecommerce Tienda Geek App",
     "desc": "It's a e-shop which uses web view component for displaying content. This app in MVC provides Json tycode deploy at free at servers random data.",
     "image": "webviewapp",
@@ -67,6 +57,16 @@
     "links": {
       "view": "https://shopecommerce.netlify.app/viewstl",
       "code": "https://github.com/kensumiliante"
+    }
+  },
+   {
+    "name": "Layout to Hostelry Website",
+    "desc": "This website to restorant is specially build to showcase all major javaScript projects. All my course based projects are in it.",
+    "image": "jspro",
+    "category": "basicweb",
+    "links": {
+      "view": "https://stupendous-rest.netlify.app/",
+      "code": "https://kensumiliante.github.io/kensudev/DISE%C3%91OWEBSHOSTELERIA_Diplomadeaprovechamiento.html"
     }
   },
   {
