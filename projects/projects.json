@@ -11,12 +11,22 @@
   },
   {
     "name": "Xamarin Mobile app SECMAS",
-    "desc": "C# con .NET Basic in Xamarin Resume Generator which will generate customized resume in few minutes on your CO2 emitions. Proyect competitor microsoft imagine cup by UNA university",
+    "desc": "It IC2013 Proposal C# con .NET Basic in Xamarin Resume Generator which will generate customized resume in few minutes on your CO2 emitions. Proyect competitor microsoft imagine cup by UNA university",
     "image": "resumegen",
     "category": "mern",
     "links": {
       "view": "#",
       "code": "https://github.com/kensumiliante"
+    }
+  },
+   {
+    "name": "Jake for issue track",
+    "desc": "It IC2014 Proposal Xbox SDK provides the feature to Assign Issue With The model therapy for neuro medical and Uses Local Storage app. Proyect competitor microsoft imagine cup by UBA university",
+    "image": "issuetrack",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
     }
   },
   {
@@ -25,8 +35,8 @@
     "image": "flipkartphp",
     "category": "lamp",
     "links": {
-      "view": "https://github.com//tarif-plumrose call joomla PHP",
-      "code": "https://github.com/PHP"
+      "view": "https://kensumiliante.github.io/kensudev/",
+      "code": "https://github.com//tarif-plumrose call joomla and PHP"
     }
   },
     {
@@ -70,16 +80,6 @@
     }
   },
   {
-    "name": "Foodicious",
-    "desc": "Basic food website landing page built using HTML, CSS and JavaScript.",
-    "image": "foodicious",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
     "name": "Burger Shop Dummy",
     "desc": "Basic burger shop webpage allow users to check menu and price. Dummy Order Form.",
     "image": "burgerweb",
@@ -97,6 +97,16 @@
     "links": {
       "view": "https://kensumiliante.github.io/kensudev/1ERAmazonEbookElArteDeCocinarKmilia.html",
       "code": "https://amzn.eu/d/7IWQ0Hl"
+    }
+  },
+    {
+    "name": "Foodicious",
+    "desc": "Basic food website landing page built using HTML, CSS and JavaScript.",
+    "image": "foodicious",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
     }
   },
    {
