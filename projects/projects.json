@@ -80,6 +80,16 @@
     }
   },
   {
+    "name": "Burger Shop Dummy",
+    "desc": "Basic burger shop webpage allow users to check menu and price. Dummy Order Form.",
+    "image": "burgerweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"  
+    }
+  },
+  {
     "name": "Food menu´s Book Website",
     "desc": "Basic website for a food menus book this page built using HTML, CSS, SASS, Bootstrap and jQuery.",
     "image": "foodwebsite",
@@ -97,16 +107,6 @@
     "links": {
       "view": "https://yourls.org/",
       "code": "#"
-    }
-  },
-   {
-    "name": "Burger Shop Dummy",
-    "desc": "Basic burger shop webpage allow users to check menu and price. Dummy Order Form.",
-    "image": "burgerweb",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"  
     }
   }
 ]
