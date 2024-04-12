@@ -10,16 +10,6 @@
     }
   },
   {
-    "name": "Azure dashboard",
-    "desc": "Typescript with Admin azure Dashboard and conect ROI ticket Gateway. MEAN Stack WebApp, ready to use for business.",
-    "image": "flipkartmern",
-    "category": "mean",
-    "links": {
-      "view": "#",
-      "code": "https://github.com/miliante"
-    }
-  },
-  {
     "name": "Xamarin Mobile app SECMAS",
     "desc": "C# con .NET Basic in Xamarin Resume Generator which will generate customized resume in few minutes on your CO2 emitions. Proyect competitor microsoft imagine cup by UNA university",
     "image": "resumegen",
@@ -37,6 +27,16 @@
     "links": {
       "view": "https://github.com//tarif-plumrose call joomla PHP",
       "code": "https://github.com/PHP"
+    }
+  },
+  {
+    "name": "Azure dashboard",
+    "desc": "Typescript with Admin azure Dashboard and conect ROI ticket Gateway. MEAN Stack WebApp, ready to use for business.",
+    "image": "flipkartmern",
+    "category": "mean",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/miliante"
     }
   },
   {
