@@ -5,8 +5,8 @@
     "image": "instagrammern",
     "category": "mean",
     "links": {
-      "view": "https://kensumiliante.github.io/kensudev",
-      "code": "https://github.com/miliante"
+      "view": "https://kensumiliante.github.io/kensudev/blog.html",
+      "code": "https://kensumiliante.github.io/kensudev/blog.html"
     }
   },
   {
@@ -35,8 +35,8 @@
     "image": "reactprojects",
     "category": "mean",
     "links": {
-      "view": "https://kensumiliante.github.io/kensudev",
-      "code": "https://github.com/"
+      "view": "#",
+      "code": "#"
     }
   },
   {
@@ -56,7 +56,7 @@
     "category": "basicweb",
     "links": {
       "view": "https://stupendous-rest.netlify.app/",
-      "code": "https://kensumiliante.github.io/kensudev/DISENIOWEBSHOSTELERIA_Diplomadeaprovechamiento.pdf"
+      "code": "https://kensumiliante.github.io/kensudev/DISE%C3%91OWEBSHOSTELERIA_Diplomadeaprovechamiento.html"
     }
   },
   {
@@ -75,7 +75,7 @@
     "image": "bootstraptemplate",
     "category": "basicweb",
     "links": {
-      "view": "#",
+      "view": "https://kensumiliante.github.io/kensudev/",
       "code": "#"
     }
   },
@@ -115,7 +115,7 @@
     "image": "phppblform",
     "category": "lamp",
     "links": {
-      "view": "https://github.com//PHP-Projects/tree/main/pblform#pbl-portal",
+      "view": "#",
       "code": "#"
     }
   },
