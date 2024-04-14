@@ -83,9 +83,9 @@ header {
 		height: 54px;
 		width: 50px;
 		cursor: pointer;
-		display: inline-block;
+		display: auto;
 		position: relative;
-		display: block;
+
 	}
 
 	.speakerplay {
