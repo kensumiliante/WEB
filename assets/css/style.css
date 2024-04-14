@@ -471,12 +471,13 @@ header .navbar ul li a:hover {
 		background-repeat: no-repeat;
 		background-size: 200%;
 		background-position: 100% 0;
-		filter: contrast(70%);
+		filter: contrast(90%);
 		height: 54px;
 		width: 50px;
 		cursor: pointer;
-		display: auto;
+		display: play;
 		position: relative;
+		
 
 	}
 
