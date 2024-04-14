@@ -475,8 +475,8 @@ header .navbar ul li a:hover {
 		height: 54px;
 		width: 50px;
 		cursor: pointer;
-		display: play;
-		position: relative;
+		display: audio;
+		position: auto;
 		
 
 	}
