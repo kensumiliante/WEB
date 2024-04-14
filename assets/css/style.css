@@ -471,19 +471,19 @@ header .navbar ul li a:hover {
 		background-repeat: no-repeat;
 		background-size: 200%;
 		background-position: 100% 0;
-		filter: contrast(90%);
+		filter: contrast(70%);
 		height: 54px;
 		width: 50px;
 		cursor: pointer;
-		display: audio;
-		position: auto;
-		
-
+		display: block;
+		position: relative;
+		display: block;
 	}
 
 	.speakerplay {
 		background-position: 0 0;
 	}
+
 /* about section starts */
 .about {
   background: rgb(255, 255, 255);
