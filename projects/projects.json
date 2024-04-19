@@ -20,7 +20,7 @@
     }
   },
    {
-    "name": "Jake for issue track",
+    "name": "Issue track app Jake",
     "desc": ".Net using Xbox SDK provides With The model therapy for neuro medical. Proyect competitor microsoft imagine cup 2014 Vzla by UBA university",
     "image": "issuetrack",
     "category": "basicweb",
@@ -80,9 +80,9 @@
     }
   },
   {
-    "name": "Burger Shop Dummy",
-    "desc": "Basic burger shop webpage allow users to check menu and price. Dummy Order Form.",
-    "image": "burgerweb",
+    "name": "Master Page Layout Dolce Cookie App",
+    "desc": "Basic master page for webpage layout allow users to check recipe and kits. Cookie Order Form.",
+    "image": "composey",
     "category": "basicweb",
     "links": {
       "view": "#",
@@ -107,6 +107,16 @@
     "links": {
       "view": "#",
       "code": "#"
+    }
+  },
+    {
+    "name": "Burger Shop Dummy",
+    "desc": "Basic burger shop webpage allow users to check menu and price. Dummy Order Form.",
+    "image": "burgerweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"  
     }
   },
    {
