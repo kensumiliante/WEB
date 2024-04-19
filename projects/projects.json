@@ -10,7 +10,7 @@
     }
   },
   {
-    "name": "Mobile app CO2 SECMAS",
+    "name": "CO2 SECMAS Mobile app",
     "desc": "C# in VS.NET Basic in Xamarin Resume Generator on your CO2 emitions. Proyect competitor microsoft imagine cup 2013 Vzla by UNA university",
     "image": "resumegen",
     "category": "mern",
@@ -20,7 +20,7 @@
     }
   },
    {
-    "name": "Issue track app JAKE",
+    "name": "JAKE Issue track app",
     "desc": ".Net using Xbox SDK provides With The model therapy for neuro medical. Proyect competitor microsoft imagine cup 2014 Vzla by UBA university",
     "image": "issuetrack",
     "category": "basicweb",
@@ -40,7 +40,7 @@
     }
   },
     {
-    "name": "Bootstrap Template",
+    "name": "Template Bootstrap CSS",
     "desc": "Basic website template built using HTML and Bootstrap.",
     "image": "bootstraptemplate",
     "category": "basicweb",
@@ -50,7 +50,7 @@
     }
   },
   {
-    "name": "Azure dashboard",
+    "name": "Work Dashboard Azure",
     "desc": "Typescript with Admin azure Dashboard and conect ROI ticket Gateway. MEAN Stack WebApp, ready to use for business.",
     "image": "flipkartmern",
     "category": "mean",
@@ -60,7 +60,7 @@
     }
   },
   {
-    "name": "Ecommerce 3D Print App",
+    "name": "3D Print Ecommerce App",
     "desc": "It's a e-shop which uses web view component for displaying content. This app in MVC provides Json tycode deploy at free at servers random data.",
     "image": "webviewapp",
     "category": "ASP.net",
@@ -70,7 +70,7 @@
     }
   },
    {
-    "name": "Master Page Cookie App",
+    "name": "Cookie Master Page App",
     "desc": "Basic cshtml master page for webpage layout allow users to check recipe and kits Cookie, Order Form.",
     "image": "composey",
     "category": "basicweb",
@@ -80,7 +80,7 @@
     }
   },
    {
-    "name": "Layout to Hostelry Website",
+    "name": "Hostelry Layout Website",
     "desc": "This website to restorant is specially build to showcase all major javaScript projects. All my course based projects are in it.",
     "image": "jspro",
     "category": "basicweb",
@@ -90,7 +90,7 @@
     }
   },
   {
-    "name": "Food menu´s Book Website",
+    "name": "Food menu´s EBook",
     "desc": "Basic website for a food menus book this page built using HTML, CSS, SASS, Bootstrap and jQuery.",
     "image": "foodwebsite",
     "category": "basicweb",
@@ -110,7 +110,7 @@
     }
   },
     {
-    "name": "Burger Shop Dummy",
+    "name": "Burger Dummy",
     "desc": "Basic burger shop webpage allow users to check menu and price. Dummy Order Form.",
     "image": "burgerweb",
     "category": "basicweb",
