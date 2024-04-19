@@ -70,16 +70,6 @@
     }
   },
    {
-    "name": "Layout to Hostelry Website",
-    "desc": "This website to restorant is specially build to showcase all major javaScript projects. All my course based projects are in it.",
-    "image": "jspro",
-    "category": "basicweb",
-    "links": {
-      "view": "https://stupendous-rest.netlify.app/",
-      "code": "https://kensumiliante.github.io/kensudev/DISE%C3%91OWEBSHOSTELERIA_Diplomadeaprovechamiento.html"
-    }
-  },
-  {
     "name": "Master Page Dolce Cookie App",
     "desc": "Basic cshtml master page for webpage layout allow users to check recipe and kits Cookie, Order Form.",
     "image": "composey",
@@ -87,6 +77,16 @@
     "links": {
       "view": "https://dolcecookie.netlify.app",
       "code": "#"  
+    }
+  },
+   {
+    "name": "Layout to Hostelry Website",
+    "desc": "This website to restorant is specially build to showcase all major javaScript projects. All my course based projects are in it.",
+    "image": "jspro",
+    "category": "basicweb",
+    "links": {
+      "view": "https://stupendous-rest.netlify.app/",
+      "code": "https://kensumiliante.github.io/kensudev/DISE%C3%91OWEBSHOSTELERIA_Diplomadeaprovechamiento.html"
     }
   },
   {
