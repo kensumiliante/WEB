@@ -60,7 +60,7 @@
     }
   },
   {
-    "name": "Ecommerce Tienda Geek App",
+    "name": "Ecommerce 3D Print App",
     "desc": "It's a e-shop which uses web view component for displaying content. This app in MVC provides Json tycode deploy at free at servers random data.",
     "image": "webviewapp",
     "category": "ASP.net",
@@ -70,7 +70,7 @@
     }
   },
    {
-    "name": "Master Page Dolce Cookie App",
+    "name": "Master Page Cookie App",
     "desc": "Basic cshtml master page for webpage layout allow users to check recipe and kits Cookie, Order Form.",
     "image": "composey",
     "category": "basicweb",
