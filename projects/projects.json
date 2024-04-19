@@ -80,7 +80,7 @@
     }
   },
   {
-    "name": "Master Page Layout Dolce Cookie App",
+    "name": "Master Page Dolce Cookie App",
     "desc": "Basic cshtml master page for webpage layout allow users to check recipe and kits Cookie, Order Form.",
     "image": "composey",
     "category": "basicweb",
