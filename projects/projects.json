@@ -81,11 +81,11 @@
   },
   {
     "name": "Master Page Layout Dolce Cookie App",
-    "desc": "Basic master page for webpage layout allow users to check recipe and kits. Cookie Order Form.",
+    "desc": "Basic cshtml master page for webpage layout allow users to check recipe and kits Cookie, Order Form.",
     "image": "composey",
     "category": "basicweb",
     "links": {
-      "view": "#",
+      "view": "https://dolcecookie.netlify.app",
       "code": "#"  
     }
   },
