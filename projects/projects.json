@@ -20,7 +20,7 @@
     }
   },
    {
-    "name": "JAKE Issue track app",
+    "name": "JAKE therapy model for neuro medical",
     "desc": ".Net using Xbox SDK provides With The model therapy for neuro medical. Proyect competitor microsoft imagine cup 2014 Vzla by UBA university",
     "image": "issuetrack",
     "category": "basicweb",
@@ -30,7 +30,7 @@
     }
   },
   {
-    "name": "Tarif Call PHP",
+    "name": "Report Call PHP",
     "desc": "Full-Stack Using LAMP Stack. With PHP at Joomla all major features and OTP authentication and voIP gateway.",
     "image": "flipkartphp",
     "category": "lamp",
@@ -50,7 +50,7 @@
     }
   },
   {
-    "name": "Work Dashboard Azure",
+    "name": "Dashboard Azure for QA",
     "desc": "Typescript with Admin azure Dashboard and conect ROI ticket Gateway. MEAN Stack WebApp, ready to use for business.",
     "image": "flipkartmern",
     "category": "mean",
@@ -90,8 +90,8 @@
     }
   },
   {
-    "name": "Food menu´s EBook",
-    "desc": "Basic website for a food menus book this page built using HTML, CSS, SASS, Bootstrap and jQuery.",
+    "name": "Food for menu´s EBook",
+    "desc": "Basic website for a food for menus ebook this page built using HTML, CSS, SASS, Bootstrap and jQuery.",
     "image": "foodwebsite",
     "category": "basicweb",
     "links": {
