@@ -20,7 +20,7 @@
     }
   },
   {
-    "name": "JAKE LLM for neuro medical",
+    "name": "Neuro medical´s LLM JAKE app",
     "desc": ".Net using Xbox SDK provides With The model therapy for neuro medical. Proyect competitor microsoft imagine cup 2014 Vzla by UBA university",
     "image": "issuetrack",
     "category": "mean",
@@ -50,7 +50,7 @@
     }
   },
    {
-    "name": "Template Bootstrap CSS",
+    "name": "Template community CSS",
     "desc": "Basic website template built using HTML and Bootstrap.",
     "image": "bootstraptemplate",
     "category": "basicweb",
@@ -70,7 +70,7 @@
     }
   },
  {
-    "name": "Cookie Master Page App",
+    "name": "Master Page Cookie App",
     "desc": "Basic cshtml master page for webpage layout allow users to check recipe and kits Cookie, Order Form.",
     "image": "composey",
     "category": "basicweb",
@@ -80,7 +80,7 @@
     }
   },
   {
-    "name": "Portfolio Website",
+    "name": "Personal Portfolio Website",
     "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
     "image": "portfolio1",
     "category": "basicweb",
@@ -90,6 +90,16 @@
     }
   },
   {
+    "name": "Food for menu´s E-Book",
+    "desc": "Basic website for a food for menus e-book this page built using HTML, CSS, SASS, Bootstrap and jQuery.",
+    "image": "foodwebsite",
+    "category": "basicweb",
+    "links": {
+      "view": "https://kensumiliante.github.io/kensudev/1ERAmazonEbookElArteDeCocinarKmilia.html",
+      "code": "https://amzn.eu/d/7IWQ0Hl"
+    }
+  },
+    {
     "name": "Hostelry Layout Website",
     "desc": "This website to restorant is specially build to showcase all major javaScript projects. All my course based projects are in it.",
     "image": "jspro",
@@ -99,38 +109,8 @@
       "code": "https://kensumiliante.github.io/kensudev/DISE%C3%91OWEBSHOSTELERIA_Diplomadeaprovechamiento.html"
     }
   },
-  {
-    "name": "Food for menu´s EBook",
-    "desc": "Basic website for a food for menus ebook this page built using HTML, CSS, SASS, Bootstrap and jQuery.",
-    "image": "foodwebsite",
-    "category": "basicweb",
-    "links": {
-      "view": "https://kensumiliante.github.io/kensudev/1ERAmazonEbookElArteDeCocinarKmilia.html",
-      "code": "https://amzn.eu/d/7IWQ0Hl"
-    }
-  },
-  {
-    "name": "PHP Website",
-    "desc": "Basic list TO DO based on WEB API, json DOM database. Made JavaScript with HTML, CSS and backend with PHP.",
-    "image": "tsfbank",
-    "category": "lamp",
-    "links": {
-      "view": "https://infolisttodo.netlify.app/",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Bootstrap Portfolio",
-    "desc": "Portfolio built using HTML, CSS, Bootstrap, SASS and JavaScript. Customized Bootstrap using SCSS.",
-    "image": "bootstrapportfolio",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
  {
-    "name": "Foodicious",
+    "name": "Foodicious template",
     "desc": "Basic food website landing page built using HTML, CSS and JavaScript.",
     "image": "foodicious",
     "category": "basicweb",
@@ -140,7 +120,7 @@
     }
   },
     {
-    "name": "Burger Dummy",
+    "name": "Burger Dummy Webpage",
     "desc": "Basic burger shop webpage allow users to check menu and price. Dummy Order Form.",
     "image": "burgerweb",
     "category": "basicweb",
@@ -157,16 +137,6 @@
     "links": {
       "view": "#",
       "code": "#"
-    }
-  },
-  {
-    "name": "Link List",
-    "desc": "All major profile links in a single website. It's just like clone of link tree. Personalized and Responsive.",
-    "image": "linklist",
-    "category": "basicweb",
-    "links": {
-      "view": "https://jigar-sable.github.io/LinkList",
-      "code": "https://github.com/jigar-sable/LinkList"
     }
   }
 ]
