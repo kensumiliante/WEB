@@ -130,12 +130,12 @@
     }
   },
   {
-    "name": "Food Website",
-    "desc": "Basic food website landing page built using HTML, CSS, SASS, Bootstrap and jQuery.",
-    "image": "foodwebsite",
-    "category": "basicweb",
+    "name": "JavaScript List Website",
+    "desc": "Basic list TO DO based on WEB API, json DOM database. Made JavaScript with HTML, CSS and backend with PHP.",
+    "image": "tsfbank",
+    "category": "lamp",
     "links": {
-      "view": "#",
+      "view": "https://infolisttodo.netlify.app/",
       "code": "#"
     }
   }
