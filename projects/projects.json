@@ -1,12 +1,12 @@
 [
-   {
-    "name": "Weatherly Android",
-    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
-    "image": "weatherlyandroid",
-    "category": "android",
+  {
+    "name": "Blog wordpress",
+    "desc": "Full-Stack Post automatics wordpress built using plugins, MEAN stack and realtime with payment to newsletter and help of socket.iO",
+    "image": "instagrammern",
+    "category": "mean",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/weatherly-android"
+      "view": "https://kensumiliante.github.io/kensudev/blog.html",
+      "code": "https://kensumiliante.github.io/kensudev/blog.html"
     }
   },
   {
