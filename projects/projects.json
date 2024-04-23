@@ -20,36 +20,26 @@
     }
   },
   {
-    "name": "Flipkart MERN",
-    "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
-    "image": "flipkartmern",
+    "name": "JAKE LLM for neuro medical",
+    "desc": ".Net using Xbox SDK provides With The model therapy for neuro medical. Proyect competitor microsoft imagine cup 2014 Vzla by UBA university",
+    "image": "issuetrack",
     "category": "mern",
     "links": {
-      "view": "https://flipkartwebs.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/flipkart-mern"
+      "view": "#",
+      "code": "#"
     }
   },
-  {
-    "name": "ResumeGen",
-    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
-    "image": "resumegen",
-    "category": "mern",
+ {
+    "name": "Report Call PHP",
+    "desc": "Full-Stack Using LAMP Stack. With PHP at Joomla all major features and OTP authentication and voIP gateway.",
+    "image": "flipkartphp",
+    "category": "lamp",
     "links": {
-      "view": "https://resumegenx.netlify.app/",
-      "code": "https://github.com/jigar-sable/resumegen"
+      "view": "https://kensumiliante.github.io/kensudev/",
+      "code": "https://github.com//tarif-plumrose call joomla and PHP"
     }
   },
-  {
-    "name": "React-Projects",
-    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
-    "image": "reactprojects",
-    "category": "mern",
-    "links": {
-      "view": "https://reactjsprojects.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/React-Projects"
-    }
-  },
-  {
+   {
     "name": "Flipkart PHP",
     "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
     "image": "flipkartphp",
