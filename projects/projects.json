@@ -13,7 +13,7 @@
     "name": "CO2 SECMAS Mobile app",
     "desc": "C# in VS.NET Basic in Xamarin Resume Generator on your CO2 emitions. Proyect competitor microsoft imagine cup 2013 Vzla by UNA university",
     "image": "resumegen",
-    "category": "android",
+    "category": "mean",
     "links": {
       "view": "#",
       "code": "https://github.com/kensumiliante"
@@ -43,7 +43,7 @@
     "name": "Dashboard Azure for QA",
     "desc": "Typescript with Admin azure Dashboard and conect ROI ticket Gateway. MEAN Stack WebApp, ready to use for business.",
     "image": "flipkartmern",
-    "category": "azure",
+    "category": "mean",
     "links": {
       "view": "#",
       "code": "https://github.com/miliante"
@@ -160,36 +160,6 @@
     }
   },
   {
-    "name": "WebChat Website",
-    "desc": "It's a web based chat app made using popular javaScript library Socket IO. Allows multiple users to connect.",
-    "image": "webchat",
-    "category": "mern",
-    "links": {
-      "view": "https://github.com/jigar-sable/WebChat#webchat",
-      "code": "https://github.com/jigar-sable/WebChat"
-    }
-  },
-  {
-    "name": "Basic Banking App",
-    "desc": "It's an android app which uses SQLite to store user accounts data. It provides feature to simply transact amount.",
-    "image": "basicbank",
-    "category": "android",
-    "links": {
-      "view": "https://github.com/jigar-sable/Basic_Banking_App#basic-banking-app",
-      "code": "https://github.com/jigar-sable/Basic_Banking_App"
-    }
-  },
-  {
-    "name": "JavaScript Issue Tracker",
-    "desc": "It provides the feature to Assign Issue With The Auto Generated Id By Using ChanceJS. Uses Local Storage.",
-    "image": "issuetrack",
-    "category": "basicweb",
-    "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects/projects/issuetracker",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects/tree/main/projects/issuetracker"
-    }
-  },
-  {
     "name": "Link List",
     "desc": "All major profile links in a single website. It's just like clone of link tree. Personalized and Responsive.",
     "image": "linklist",
@@ -207,16 +177,6 @@
     "links": {
       "view": "https://jigar-sable.github.io/JavaScript-Projects/api-projects/saas-jobs",
       "code": "https://github.com/jigar-sable/JavaScript-Projects/tree/main/api-projects/saas-jobs"
-    }
-  },
-  {
-    "name": "Old Websites",
-    "desc": "Bestwebs & ColorCoder. Two Years old websites memories. Simple with basic features.",
-    "image": "oldsites",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
     }
   },
   {
@@ -239,14 +199,5 @@
       "code": "#"
     }
   },
-  {
-    "name": "Burger Shop Dummy",
-    "desc": "Basic burger shop webpage allow users to check menu and price. Dummy Order Form.",
-    "image": "burgerweb",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  }
+ }
 ]
