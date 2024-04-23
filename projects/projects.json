@@ -49,17 +49,7 @@
       "code": "https://github.com/miliante"
     }
   },
-  {
-    "name": "JavaScript Projects Website",
-    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
-    "image": "jspro",
-    "category": "basicweb",
-    "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects"
-    }
-  },
-  {
+   {
     "name": "Template Bootstrap CSS",
     "desc": "Basic website template built using HTML and Bootstrap.",
     "image": "bootstraptemplate",
@@ -73,7 +63,7 @@
     "name": "3D Print Ecommerce App",
     "desc": "It's a e-shop which uses web view component for displaying content. This app in MVC provides Json tycode deploy at free at servers random data.",
     "image": "webviewapp",
-    "category": "ASP.net",
+    "category": "mean",
     "links": {
       "view": "https://shopecommerce.netlify.app/viewstl",
       "code": "https://github.com/kensumiliante"
@@ -120,13 +110,13 @@
     }
   },
   {
-    "name": "PHP Banking Website",
-    "desc": "Basic Banking System based on PHP and MySQL database. Made with HTML, CSS, JavaScript and backend with PHP.",
+    "name": "PHP Website",
+    "desc": "Basic list TO DO based on WEB API, json DOM database. Made JavaScript with HTML, CSS and backend with PHP.",
     "image": "tsfbank",
     "category": "lamp",
     "links": {
-      "view": "https://tsfbank.rf.gd",
-      "code": "https://github.com/jigar-sable/TSF-Bank"
+      "view": "https://infolisttodo.netlify.app/",
+      "code": "#"
     }
   },
   {
