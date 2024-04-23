@@ -1,5 +1,6 @@
 [
   {
+    {
     "name": "Blog wordpress",
     "desc": "Full-Stack Post automatics wordpress built using plugins, MEAN stack and realtime with payment to newsletter and help of socket.iO",
     "image": "instagrammern",
@@ -128,5 +129,6 @@
       "view": "https://yourls.org/",
       "code": "#"
     }
+   }
   }
 ]
