@@ -9,14 +9,14 @@
       "code": "https://kensumiliante.github.io/kensudev/blog.html"
     }
   },
-  {
-    "name": "Instagram MERN",
-    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
-    "image": "instagrammern",
-    "category": "mern",
+ {
+    "name": "CO2 SECMAS Mobile app",
+    "desc": "C# in VS.NET Basic in Xamarin Resume Generator on your CO2 emitions. Proyect competitor microsoft imagine cup 2013 Vzla by UNA university",
+    "image": "resumegen",
+    "category": "mean","android",
     "links": {
-      "view": "https://instagramernstack.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/instagram-mern"
+      "view": "#",
+      "code": "https://github.com/kensumiliante"
     }
   },
   {
