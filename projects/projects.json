@@ -23,7 +23,7 @@
     "name": "JAKE LLM for neuro medical",
     "desc": ".Net using Xbox SDK provides With The model therapy for neuro medical. Proyect competitor microsoft imagine cup 2014 Vzla by UBA university",
     "image": "issuetrack",
-    "category": "mern",
+    "category": "mean",
     "links": {
       "view": "#",
       "code": "#"
@@ -33,13 +33,13 @@
     "name": "Report Call PHP",
     "desc": "Full-Stack Using LAMP Stack. With PHP at Joomla all major features and OTP authentication and voIP gateway.",
     "image": "flipkartphp",
-    "category": "lamp",
+    "category": "mean",
     "links": {
       "view": "https://kensumiliante.github.io/kensudev/",
       "code": "https://github.com//tarif-plumrose call joomla and PHP"
     }
   },
-   {
+  {
     "name": "Dashboard Azure for QA",
     "desc": "Typescript with Admin azure Dashboard and conect ROI ticket Gateway. MEAN Stack WebApp, ready to use for business.",
     "image": "flipkartmern",
@@ -198,6 +198,5 @@
       "view": "#",
       "code": "#"
     }
-  },
  }
 ]
