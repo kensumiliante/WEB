@@ -40,7 +40,7 @@
     }
   },
   {
-    "name": "Dashboard Azure for QA",
+    "name": "Dashboard for QA Azure",
     "desc": "Typescript with Admin azure Dashboard and conect ROI ticket Gateway. MEAN Stack WebApp, ready to use for business.",
     "image": "flipkartmern",
     "category": "mean",
@@ -50,7 +50,7 @@
     }
   },
    {
-    "name": "Template community CSS",
+    "name": "Community Web Template CSS",
     "desc": "Basic website template built using HTML and Bootstrap.",
     "image": "bootstraptemplate",
     "category": "basicweb",
@@ -60,7 +60,7 @@
     }
   },
   {
-    "name": "3D Print Ecommerce App",
+    "name": "3D Print E-commerce App",
     "desc": "It's a e-shop which uses web view component for displaying content. This app in MVC provides Json tycode deploy at free at servers random data.",
     "image": "webviewapp",
     "category": "mean",
