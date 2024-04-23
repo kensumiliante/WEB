@@ -13,7 +13,7 @@
     "name": "CO2 SECMAS Mobile app",
     "desc": "C# in VS.NET Basic in Xamarin Resume Generator on your CO2 emitions. Proyect competitor microsoft imagine cup 2013 Vzla by UNA university",
     "image": "resumegen",
-    "category": "Android App",
+    "category": "android",
     "links": {
       "view": "#",
       "code": "https://github.com/kensumiliante"
@@ -23,7 +23,7 @@
     "name": "JAKE LLM for neuro medical",
     "desc": ".Net using Xbox SDK provides With The model therapy for neuro medical. Proyect competitor microsoft imagine cup 2014 Vzla by UBA university",
     "image": "issuetrack",
-    "category": "basicweb",
+    "category": "mean",
     "links": {
       "view": "#",
       "code": "#"
@@ -53,7 +53,7 @@
     "name": "Dashboard Azure for QA",
     "desc": "Typescript with Admin azure Dashboard and conect ROI ticket Gateway. MEAN Stack WebApp, ready to use for business.",
     "image": "flipkartmern",
-    "category": "Azure",
+    "category": "azure",
     "links": {
       "view": "#",
       "code": "https://github.com/miliante"
