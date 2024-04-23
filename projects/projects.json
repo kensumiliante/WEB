@@ -23,7 +23,7 @@
     "name": "JAKE LLM for neuro medical",
     "desc": ".Net using Xbox SDK provides With The model therapy for neuro medical. Proyect competitor microsoft imagine cup 2014 Vzla by UBA university",
     "image": "issuetrack",
-    "category": "mean",
+    "category": "mern",
     "links": {
       "view": "#",
       "code": "#"
@@ -53,7 +53,7 @@
     "name": "Dashboard Azure for QA",
     "desc": "Typescript with Admin azure Dashboard and conect ROI ticket Gateway. MEAN Stack WebApp, ready to use for business.",
     "image": "flipkartmern",
-    "category": "azure",
+    "category": "lamp",
     "links": {
       "view": "#",
       "code": "https://github.com/miliante"
