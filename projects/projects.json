@@ -13,7 +13,7 @@
     "name": "CO2 SECMAS Mobile app",
     "desc": "C# in VS.NET Basic in Xamarin Resume Generator on your CO2 emitions. Proyect competitor microsoft imagine cup 2013 Vzla by UNA university",
     "image": "resumegen",
-    "category": "mern",
+    "category": "Android App",
     "links": {
       "view": "#",
       "code": "https://github.com/kensumiliante"
@@ -53,7 +53,7 @@
     "name": "Dashboard Azure for QA",
     "desc": "Typescript with Admin azure Dashboard and conect ROI ticket Gateway. MEAN Stack WebApp, ready to use for business.",
     "image": "flipkartmern",
-    "category": "mean",
+    "category": "Azure",
     "links": {
       "view": "#",
       "code": "https://github.com/miliante"
