@@ -53,7 +53,7 @@
     "name": "Dashboard Azure for QA",
     "desc": "Typescript with Admin azure Dashboard and conect ROI ticket Gateway. MEAN Stack WebApp, ready to use for business.",
     "image": "flipkartmern",
-    "category": "lamp",
+    "category": "azure",
     "links": {
       "view": "#",
       "code": "https://github.com/miliante"
