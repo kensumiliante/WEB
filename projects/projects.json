@@ -109,6 +109,16 @@
       "code": "https://kensumiliante.github.io/kensudev/DISE%C3%91OWEBSHOSTELERIA_Diplomadeaprovechamiento.html"
     }
   },
+  {
+    "name": "JavaScript List Website",
+    "desc": "Basic list TO DO based on WEB API, json DOM database. Made JavaScript with HTML, CSS and backend with PHP.",
+    "image": "tsfbank",
+    "category": "lamp",
+    "links": {
+      "view": "https://infolisttodo.netlify.app/",
+      "code": "#"
+    }
+     },
    {
     "name": "Lavanderia Burbuja template",
     "desc": "Basic laundry website landing page built using HTML, CSS and JavaScript.",
@@ -137,16 +147,6 @@
     "links": {
       "view": "#",
       "code": "#"  
-    }
-  },
-  {
-    "name": "JavaScript List Website",
-    "desc": "Basic list TO DO based on WEB API, json DOM database. Made JavaScript with HTML, CSS and backend with PHP.",
-    "image": "tsfbank",
-    "category": "lamp",
-    "links": {
-      "view": "https://infolisttodo.netlify.app/",
-      "code": "#"
     }
   }
 ]
