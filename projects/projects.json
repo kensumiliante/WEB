@@ -109,6 +109,16 @@
       "code": "https://kensumiliante.github.io/kensudev/DISE%C3%91OWEBSHOSTELERIA_Diplomadeaprovechamiento.html"
     }
   },
+   {
+    "name": "Lavanderia Burbuja template",
+    "desc": "Basic laundry website landing page built using HTML, CSS and JavaScript.",
+    "image": "templeweb",
+    "category": "basicweb",
+    "links": {
+      "view": "https://bubblelaundry.netlify.app",
+      "code": "https://github.com/kensumiliante/BubbleLaundry"
+    }
+  },
  {
     "name": "Foodicious template",
     "desc": "Basic food website landing page built using HTML, CSS and JavaScript.",
