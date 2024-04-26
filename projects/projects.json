@@ -6,7 +6,7 @@
     "category": "mean",
     "links": {
       "view": "https://kensumiliante.github.io/kensudev/blog.html",
-      "code": "https://kensumiliante.github.io/kensudev/blog.html"
+      "code": "#"
     }
   },
  {
@@ -35,8 +35,8 @@
     "image": "flipkartphp",
     "category": "mean",
     "links": {
-      "view": "https://kensumiliante.github.io/kensudev/",
-      "code": "https://github.com//tarif-plumrose call joomla and PHP"
+      "view": "#",
+      "code": "#"
     }
   },
   {
@@ -66,7 +66,7 @@
     "category": "mean",
     "links": {
       "view": "https://shopecommerce.netlify.app/viewstl",
-      "code": "https://github.com/kensumiliante"
+      "code": "#"
     }
   },
  {
@@ -85,8 +85,8 @@
     "image": "portfolio1",
     "category": "basicweb",
     "links": {
-      "view": "#",
-      "code": "https://portafoliowebkensu.netlify.app"
+      "view": "https://portafoliowebkensu.netlify.app",
+      "code": "#"
     }
   },
   {
@@ -105,7 +105,7 @@
     "image": "foodicious",
     "category": "basicweb",
     "links": {
-      "view": "#",
+      "view": "https://foodicius.netlify.app",
       "code": "#"
     }
   }, 
