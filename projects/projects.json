@@ -61,7 +61,7 @@
   },
   {
     "name": "3D Print E-commerce App",
-    "desc": "It's a e-shop which uses web view component for displaying content in MVC provides Json tycode deploy at free servers random data. Login user: admin pass: 1234",
+    "desc": "It's a e-shop which uses web view component content in MVC provides Json tycode deploy at free servers random data. Login user: admin pass: 1234",
     "image": "webviewapp",
     "category": "mean",
     "links": {
