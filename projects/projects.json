@@ -138,15 +138,5 @@
       "view": "#",
       "code": "#"
     }
-  },
-    {
-    "name": "Burger Dummy Webpage",
-    "desc": "Basic burger shop webpage allow users to check menu and price. Dummy Order Form.",
-    "image": "burgerweb",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"  
-    }
   }
 ]
