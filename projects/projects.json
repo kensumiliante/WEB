@@ -99,7 +99,17 @@
       "code": "https://amzn.eu/d/7IWQ0Hl"
     }
   },
-    {
+ {
+    "name": "Foodicious template",
+    "desc": "Basic food website landing page built using HTML, CSS and JavaScript.",
+    "image": "foodicious",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }, 
+   {
     "name": "Hostelry Layout Website",
     "desc": "This website to restorant is specially build to showcase all major javaScript projects. All my course based projects are in it.",
     "image": "jspro",
@@ -127,16 +137,6 @@
     "links": {
       "view": "https://bubblelaundry.netlify.app",
       "code": "https://github.com/kensumiliante/Laundry"
-    }
-  },
- {
-    "name": "Foodicious template",
-    "desc": "Basic food website landing page built using HTML, CSS and JavaScript.",
-    "image": "foodicious",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
     }
   }
 ]
