@@ -59,17 +59,7 @@
       "code": "#"
     }
   },
-  {
-    "name": "3D Print E-commerce App",
-    "desc": "It's a e-shop uses web view component content MVC provides, Json tycode deploy at servers random data. Login user: admin pass: 1234",
-    "image": "webviewapp",
-    "category": "mean",
-    "links": {
-      "view": "https://shopecommerce.netlify.app/viewstl",
-      "code": "https://github.com/kensumiliante/salesforce-commerce-cloud-starter"
-    }
-  }, 
-    {
+     {
     "name": "JavaScript List Website",
     "desc": "Basic list TO DO based on WEB API, json DOM database. Made JavaScript with HTML, CSS and backend with PHP.",
     "image": "tsfbank",
@@ -79,6 +69,16 @@
       "code": "https://github.com/kensumiliante/info"
     }
      },
+   {
+    "name": "3D Print E-commerce App",
+    "desc": "It's a e-shop uses web view component content MVC provides, Json tycode deploy at servers random data. Login user: admin pass: 1234",
+    "image": "webviewapp",
+    "category": "mean",
+    "links": {
+      "view": "https://shopecommerce.netlify.app/viewstl",
+      "code": "https://github.com/kensumiliante/salesforce-commerce-cloud-starter"
+    }
+  }, 
   {
     "name": "Personal Portfolio Website",
     "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
@@ -130,7 +130,7 @@
     }
   },
    {
-    "name": "Lavanderia Burbuja template",
+    "name": "Laundry Burbuja template",
     "desc": "Basic laundry website landing page built using HTML, CSS and JavaScript.",
     "image": "templeweb",
     "category": "basicweb",
