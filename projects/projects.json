@@ -109,16 +109,6 @@
       "code": "#"  
     }
   },
- {
-    "name": "Foodicious template",
-    "desc": "Basic food website landing page built using HTML, CSS and JavaScript.",
-    "image": "foodicious",
-    "category": "basicweb",
-    "links": {
-      "view": "https://foodicius.netlify.app",
-      "code": "#"
-    }
-  }, 
    {
     "name": "Hostelry Layout Website",
     "desc": "This website to restorant is specially build to showcase all major javaScript projects. All my course based projects are in it.",
@@ -129,6 +119,16 @@
       "code": "https://kensumiliante.github.io/kensudev/DISE%C3%91OWEBSHOSTELERIA_Diplomadeaprovechamiento.html"
     }
   },
+  {
+    "name": "Foodicious template",
+    "desc": "Basic food website landing page built using HTML, CSS and JavaScript.",
+    "image": "foodicious",
+    "category": "basicweb",
+    "links": {
+      "view": "https://foodicius.netlify.app",
+      "code": "#"
+    }
+  }, 
    {
     "name": "Laundry Burbuja template",
     "desc": "Basic laundry website landing page built using HTML, CSS and JavaScript.",
