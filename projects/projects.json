@@ -68,17 +68,17 @@
       "view": "https://shopecommerce.netlify.app/viewstl",
       "code": "https://github.com/kensumiliante/salesforce-commerce-cloud-starter"
     }
-  },
- {
-    "name": "Master Page Cookie App",
-    "desc": "Basic cshtml master page for webpage layout allow users to check recipe and kits Cookie, Order Form.",
-    "image": "composey",
-    "category": "basicweb",
+  }, 
+    {
+    "name": "JavaScript List Website",
+    "desc": "Basic list TO DO based on WEB API, json DOM database. Made JavaScript with HTML, CSS and backend with PHP.",
+    "image": "tsfbank",
+    "category": "lamp",
     "links": {
-      "view": "https://dolcecookie.netlify.app",
-      "code": "#"  
+      "view": "https://infolisttodo.netlify.app/",
+      "code": "https://github.com/kensumiliante/info"
     }
-  },
+     },
   {
     "name": "Personal Portfolio Website",
     "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
@@ -97,6 +97,16 @@
     "links": {
       "view": "https://kensumiliante.github.io/kensudev/1ERAmazonEbookElArteDeCocinarKmilia.html",
       "code": "https://amzn.eu/d/7IWQ0Hl"
+    }
+  },
+   {
+    "name": "Master Page Cookie App",
+    "desc": "Basic cshtml master page for webpage layout allow users to check recipe and kits Cookie, Order Form.",
+    "image": "composey",
+    "category": "basicweb",
+    "links": {
+      "view": "https://dolcecookie.netlify.app",
+      "code": "#"  
     }
   },
  {
@@ -119,16 +129,6 @@
       "code": "https://kensumiliante.github.io/kensudev/DISE%C3%91OWEBSHOSTELERIA_Diplomadeaprovechamiento.html"
     }
   },
-  {
-    "name": "JavaScript List Website",
-    "desc": "Basic list TO DO based on WEB API, json DOM database. Made JavaScript with HTML, CSS and backend with PHP.",
-    "image": "tsfbank",
-    "category": "lamp",
-    "links": {
-      "view": "https://infolisttodo.netlify.app/",
-      "code": "#"
-    }
-     },
    {
     "name": "Lavanderia Burbuja template",
     "desc": "Basic laundry website landing page built using HTML, CSS and JavaScript.",
