@@ -20,7 +20,7 @@
     }
   },
   {
-    "name": "Neuro medical´s LLM JAKE app",
+    "name": "Medical´s LLM JAKE app",
     "desc": ".Net using Xbox SDK provides With The model therapy for neuro medical. Proyect competitor microsoft imagine cup 2014 Vzla by UBA university",
     "image": "issuetrack",
     "category": "mean",
@@ -50,7 +50,7 @@
     }
   },
    {
-    "name": "Community Web Template CSS",
+    "name": "Community Web Template",
     "desc": "Basic website template built using HTML and Bootstrap.",
     "image": "bootstraptemplate",
     "category": "basicweb",
@@ -60,7 +60,7 @@
     }
   },
      {
-    "name": "JavaScript List Website",
+    "name": "Info List Web JavaScript",
     "desc": "Basic list TO DO based on WEB API, json DOM database. Made JavaScript with HTML, CSS and backend with PHP.",
     "image": "tsfbank",
     "category": "lamp",
@@ -80,7 +80,7 @@
     }
   }, 
   {
-    "name": "Personal Portfolio Website",
+    "name": "Personal Web Portfolio",
     "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
     "image": "portfolio1",
     "category": "basicweb",
@@ -90,7 +90,7 @@
     }
   },
   {
-    "name": "Food for menus E-Book",
+    "name": "Food for Menus E-Book",
     "desc": "Basic website for a food for menus e-book this page built using HTML, CSS, SASS, Bootstrap and jQuery.",
     "image": "foodwebsite",
     "category": "basicweb",
@@ -100,7 +100,7 @@
     }
   },
    {
-    "name": "Master Page Cookie App",
+    "name": "CookieKits Master Page App",
     "desc": "Basic cshtml master page for webpage layout allow users to check recipe and kits Cookie, Order Form.",
     "image": "composey",
     "category": "basicweb",
