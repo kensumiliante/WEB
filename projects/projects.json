@@ -119,25 +119,5 @@
       "view": "https://foodicius.netlify.app",
       "code": "#"
     }
-  }, 
-  {
-    "name": "Info List Web JavaScript",
-    "desc": "Basic list TO DO based on WEB API, json DOM database. Made JavaScript with HTML, CSS and backend with PHP.",
-    "image": "tsfbank",
-    "category": "lamp",
-    "links": {
-      "view": "https://infolisttodo.netlify.app/",
-      "code": "https://github.com/kensumiliante/info"
-    }
-     },
-   {
-    "name": "Laundry template",
-    "desc": "Basic laundry website burbuja landing page built using HTML, CSS and JavaScript.",
-    "image": "templeweb",
-    "category": "basicweb",
-    "links": {
-      "view": "https://bubblelaundry.netlify.app",
-      "code": "https://github.com/kensumiliante/Laundry"
-    }
   }
 ]
