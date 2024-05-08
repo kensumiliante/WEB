@@ -59,16 +59,6 @@
       "code": "https://github.com/kensumiliante/kensudev"
     }
   },
-     {
-    "name": "Info List Web JavaScript",
-    "desc": "Basic list TO DO based on WEB API, json DOM database. Made JavaScript with HTML, CSS and backend with PHP.",
-    "image": "tsfbank",
-    "category": "lamp",
-    "links": {
-      "view": "https://infolisttodo.netlify.app/",
-      "code": "https://github.com/kensumiliante/info"
-    }
-     },
    {
     "name": "3D Print E-commerce App",
     "desc": "It's a e-shop uses web view component content MVC provides, Json tycode deploy at servers random data. Login user: admin pass: 1234",
@@ -78,7 +68,17 @@
       "view": "https://shopecommerce.netlify.app/viewstl",
       "code": "https://github.com/kensumiliante/salesforce-commerce-cloud-starter"
     }
-  }, 
+  },  
+  {
+    "name": "CookieKits Master Page App",
+    "desc": "Basic cshtml master page for webpage layout allow users to check recipe and kits Cookie, Order Form.",
+    "image": "composey",
+    "category": "basicweb",
+    "links": {
+      "view": "https://dolcecookie.netlify.app",
+      "code": "#"  
+    }
+  },
   {
     "name": "Personal Web Portfolio",
     "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
@@ -99,16 +99,7 @@
       "code": "https://amzn.eu/d/7IWQ0Hl"
     }
   },
-   {
-    "name": "CookieKits Master Page App",
-    "desc": "Basic cshtml master page for webpage layout allow users to check recipe and kits Cookie, Order Form.",
-    "image": "composey",
-    "category": "basicweb",
-    "links": {
-      "view": "https://dolcecookie.netlify.app",
-      "code": "#"  
-    }
-  },
+  
    {
     "name": "Hostelry Layout Website",
     "desc": "This website to restorant is specially build to showcase all major javaScript projects. All my course based projects are in it.",
@@ -129,9 +120,19 @@
       "code": "#"
     }
   }, 
+  {
+    "name": "Info List Web JavaScript",
+    "desc": "Basic list TO DO based on WEB API, json DOM database. Made JavaScript with HTML, CSS and backend with PHP.",
+    "image": "tsfbank",
+    "category": "lamp",
+    "links": {
+      "view": "https://infolisttodo.netlify.app/",
+      "code": "https://github.com/kensumiliante/info"
+    }
+     },
    {
-    "name": "Laundry Burbuja template",
-    "desc": "Basic laundry website landing page built using HTML, CSS and JavaScript.",
+    "name": "Laundry template",
+    "desc": "Basic laundry website burbuja landing page built using HTML, CSS and JavaScript.",
     "image": "templeweb",
     "category": "basicweb",
     "links": {
