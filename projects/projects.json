@@ -90,6 +90,16 @@
     }
   },
   {
+    "name": "Panel solar calculator web",
+    "desc": "Proyect to create for ENAE course a calculator by number of solar panel Online!",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "https://energy-solar.netlify.app/",
+      "code": "#"
+    }
+  },  
+  {
     "name": "Food for Menus E-Book",
     "desc": "Basic website for a food for menus e-book this page built using HTML, CSS, SASS, Bootstrap and jQuery.",
     "image": "foodwebsite",
