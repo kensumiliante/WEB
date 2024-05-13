@@ -92,7 +92,7 @@
   {
     "name": "Panel solar calculator web",
     "desc": "Proyect to create for ENAE course a calculator by number of solar panel Online!",
-    "image": "basicbank.PNG",
+    "image": "basicbank",
     "category": "basicweb",
     "links": {
       "view": "https://energy-solar.netlify.app/",
