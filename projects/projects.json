@@ -90,12 +90,12 @@
     }
   },
   {
-    "name": "Solar Panel Calculator Web",
-    "desc": "ENAE course project, a solar panel calculator online for renewable energy installations",
+    "name": "ENERGYSUN Panel Calculator Web",
+    "desc": "ENAE course project, a panel calculator online to sun termic energy installations",
     "image": "basicbank",
     "category": "basicweb",
     "links": {
-      "view": "https://energy-solar.netlify.app/",
+      "view": "https://energy-sun.netlify.app",
       "code": "#"
     }
   },  
