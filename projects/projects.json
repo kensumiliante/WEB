@@ -131,7 +131,7 @@
    {
     "name": "Mirror Smart LED Website",
     "desc": "This website to Fabric mirror specially build to LED all major javaScript projects. All my course based projects are in it.",
-    "image": "smartmirror",
+    "image": "smartmirrorwithled1",
     "category": "basicweb",
     "links": {
       "view": "https://smartmirrorwithled.netlify.app/",
