@@ -109,8 +109,7 @@
       "code": "https://amzn.eu/d/7IWQ0Hl"
     }
   },
-  
-   {
+     {
     "name": "Hostelry Layout Website",
     "desc": "This website to restorant is specially build to showcase all major javaScript projects. All my course based projects are in it.",
     "image": "jspro",
@@ -118,6 +117,15 @@
     "links": {
       "view": "https://stupendous-rest.netlify.app/",
       "code": "https://kensumiliante.github.io/kensudev/DISE%C3%91OWEBSHOSTELERIA_Diplomadeaprovechamiento.html"
+    }
+   {
+    "name": "Cook  Deco Website",
+    "desc": "This website to Arquitec is specially build to Cook Inductions all major javaScript projects. All my course based projects are in it.",
+    "image": "jspro",
+    "category": "bootstrapportfolio.png",
+    "links": {
+      "view": "https://cookingintable.netlify.app/",
+      "code": "https://github.com/kensumiliante/tableforcook"
     }
   }
 ]
