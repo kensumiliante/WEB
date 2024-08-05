@@ -127,6 +127,15 @@
     "links": {
       "view": "https://cookingintable.netlify.app/",
       "code": "https://github.com/kensumiliante/tableforcook"
+    },
+   {
+    "name": "Mirror Smart LED Website",
+    "desc": "This website to Fabric mirror specially build to LED all major javaScript projects. All my course based projects are in it.",
+    "image": "smartmirror",
+    "category": "basicweb",
+    "links": {
+      "view": "https://smartmirrorwithled.netlify.app/",
+      "code": "https://github.com/kensumiliante/smartmirrorwithled"
     }
       }
 ]
