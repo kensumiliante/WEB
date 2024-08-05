@@ -123,7 +123,7 @@
     "name": "Cook Deco Website",
     "desc": "This website to Arquitec is specially build to Cook Inductions all major javaScript projects. All my course based projects are in it.",
     "image": "jspro",
-    "category": "bootstrapportfolio.png",
+    "category": "CookAndDeco.png",
     "links": {
       "view": "https://cookingintable.netlify.app/",
       "code": "https://github.com/kensumiliante/tableforcook"
