@@ -135,7 +135,7 @@
     "image": "smartmirrorwithled1",
     "category": "basicweb",
     "links": {
-      "view": "https://smartmirrorwithled.com/",
+      "view": "https://smartmirrorwithled.netlify.app/",
       "code": "https://github.com/"
     }
       }
