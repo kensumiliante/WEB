@@ -125,7 +125,7 @@
     "image": "CookAndDeco",
     "category": "basicweb",
     "links": {
-      "view": "https://cookingintable.netlify.app/",
+      "view": "https://cookingintable.com",
       "code": "https://github.com/kensumiliante/tableforcook"
        }
     },
@@ -135,8 +135,8 @@
     "image": "smartmirrorwithled1",
     "category": "basicweb",
     "links": {
-      "view": "https://smartmirrorwithled.netlify.app/",
-      "code": "https://github.com/kensumiliante/smartmirrorwithled"
+      "view": "https://smartmirrorwithled.com/",
+      "code": "https://github.com/"
     }
       }
 ]
