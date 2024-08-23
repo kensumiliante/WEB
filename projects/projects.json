@@ -119,17 +119,7 @@
       "code": "https://kensumiliante.github.io/kensudev/DISE%C3%91OWEBSHOSTELERIA_Diplomadeaprovechamiento.html"
     }
    },
-   {
-    "name": "Cook Deco Website",
-    "desc": "This website to Arquitec is specially build to Cook Inductions all major javaScript projects. All my course based projects are in it.",
-    "image": "CookAndDeco",
-    "category": "basicweb",
-    "links": {
-      "view": "https://cookingintable.com",
-      "code": "https://github.com/kensumiliante/tableforcook"
-       }
-    },
-   {
+     {
     "name": "Mirror Smart LED Website",
     "desc": "This website to Fabric mirror specially build to LED all major javaScript projects. All my course based projects are in it.",
     "image": "smartmirrorwithled1",
