@@ -120,13 +120,13 @@
     }
    },
      {
-    "name": "Mirror Smart LED Website",
-    "desc": "This website to Fabric mirror specially build to LED all major javaScript projects. All my course based projects are in it.",
-    "image": "smartmirrorwithled1",
+    "name": "Nutri Clinic Web",
+    "desc": "This website to nutritions Clinic specially build to Menu, all major javaScript projects. All my course based projects are in it.",
+    "image": "nutriclinic",
     "category": "basicweb",
     "links": {
-      "view": "",
-      "code": "https://github.com/"
+      "view": "https://nutripacient.netlify.app",
+      "code": "https://github.com/kensumiliante/NutriPacient"
     }
       }
 ]
