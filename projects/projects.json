@@ -108,16 +108,6 @@
       "view": "https://kensumiliante.github.io/kensudev/1ERAmazonEbookElArteDeCocinarKmilia.html",
       "code": "https://amzn.eu/d/7IWQ0Hl"
     }
-  },
-     {
-    "name": "Hostelry Layout Website",
-    "desc": "This website to restorant is specially build to showcase all major javaScript projects. All my course based projects are in it.",
-    "image": "jspro",
-    "category": "basicweb",
-    "links": {
-      "view": "https://stupendous-rest.netlify.app/",
-      "code": "https://kensumiliante.github.io/kensudev/DISE%C3%91OWEBSHOSTELERIA_Diplomadeaprovechamiento.html"
-    }
    },
      {
     "name": "Nutri Clinic Web",
@@ -127,6 +117,17 @@
     "links": {
       "view": "https://nutripacient.netlify.app",
       "code": "https://github.com/kensumiliante/NutriPacient"
+    }
+     },
+     {
+    "name": "Hostelry Layout Website",
+    "desc": "This website to restorant is specially build to showcase all major javaScript projects. All my course based projects are in it.",
+    "image": "jspro",
+    "category": "basicweb",
+    "links": {
+      "view": "https://stupendous-rest.netlify.app/",
+      "code": "https://kensumiliante.github.io/kensudev/DISE%C3%91OWEBSHOSTELERIA_Diplomadeaprovechamiento.html"
+    
     }
       }
 ]
