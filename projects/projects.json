@@ -110,13 +110,13 @@
     }
    },
      {
-    "name": "Nutri Clinic Web",
-    "desc": "This website to nutritions Clinic specially build to Menu, all major javaScript projects. All my course based projects are in it.",
-    "image": "nutriclinic",
+    "name": "Stable Web",
+    "desc": "This website to stable specially build to horse services, all major javaScript projects. All my course based projects are in it.",
+    "image": "stable",
     "category": "basicweb",
     "links": {
-      "view": "https://nutripacient.netlify.app",
-      "code": "https://github.com/kensumiliante/NutriPacient"
+      "view": "https://stableofhorse.netlify.app",
+      "code": "https://github.com/kensumiliante/"
     }
      },
      {
