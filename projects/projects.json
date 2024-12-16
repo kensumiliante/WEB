@@ -132,7 +132,7 @@
      {
     "name": "Reserva de Asiento Web",
     "desc": "This website to web specially build at python, all major IBM projects. All my course based projects are in it.",
-    "image": "cine",
+    "image": "reservacine",
     "category": "basicweb",
     "links": {
       "view": "https://reservasiento.netlify.app/reservascineemail1",
