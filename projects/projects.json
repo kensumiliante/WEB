@@ -127,7 +127,16 @@
     "links": {
       "view": "https://stupendous-rest.netlify.app/",
       "code": "https://kensumiliante.github.io/kensudev/DISE%C3%91OWEBSHOSTELERIA_Diplomadeaprovechamiento.html"
-    
-    }
+     }
+      },
+     {
+    "name": "Reserva de Asiento Web",
+    "desc": "This website to web specially build at python, all major IBM projects. All my course based projects are in it.",
+    "image": "cine",
+    "category": "basicweb",
+    "links": {
+      "view": "https://reservasiento.netlify.app/reservascineemail1",
+      "code": "https://github.com/kensumiliante/"
+     }
       }
 ]
