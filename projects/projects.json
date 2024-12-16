@@ -130,8 +130,8 @@
      }
       },
      {
-    "name": "Reserva de Asiento Web",
-    "desc": "This website to web specially build at python, all major IBM projects. All my course based projects are in it.",
+    "name": "Reservar Asiento Web",
+    "desc": "This website to specially built at based python, all items of class on web development by IBM courses projects. All my course based projects are in it.",
     "image": "reservacine",
     "category": "basicweb",
     "links": {
