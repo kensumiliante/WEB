@@ -108,16 +108,6 @@
       "view": "https://kensumiliante.github.io/kensudev/1ERAmazonEbookElArteDeCocinarKmilia.html",
       "code": "https://amzn.eu/d/7IWQ0Hl"
     }
-  },    
-     {
-    "name": "Stable Web",
-    "desc": "This website to stable specially build to horse services, all major javaScript projects. All my course based projects are in it.",
-    "image": "stable",
-    "category": "basicweb",
-    "links": {
-      "view": "https://stableofhorse.netlify.app",
-      "code": "https://github.com/kensumiliante/"
-    }
      },
      {
     "name": "Hostelry Layout Website",
@@ -130,8 +120,8 @@
      }
       },
      {
-    "name": "COFFE BAR Web",
-    "desc": "This website to specially MENUS built at based python, all items of class on web development .",
+    "name": "Website for a food for menus",
+    "desc": "This website to specially MENUS built at based JS, all items of class on web development .",
     "image": "COFEBAR",
     "category": "basicweb",
     "links": {
@@ -148,8 +138,18 @@
       "view": "https://psicologadeliamaggi.netlify.app/",
       "code": "https://github.com/kensumiliante/"
     }
-     },
- {
+ },    
+     {
+    "name": "Stable Web",
+    "desc": "This website to stable specially build to horse services, all major javaScript projects. All my course based projects are in it.",
+    "image": "stable",
+    "category": "basicweb",
+    "links": {
+      "view": "https://stableofhorse.netlify.app",
+      "code": "https://github.com/kensumiliante/"
+    }
+ },    
+     {
     "name": "Reservar Asiento Web",
     "desc": "This website to specially built at based python, all items of class on web development by IBM courses projects. All my course based projects are in it.",
     "image": "reservacine",
