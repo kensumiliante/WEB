@@ -120,7 +120,7 @@
      }
       },
      {
-    "name": "Website for a food for menus",
+    "name": "Website for menus food",
     "desc": "This website to specially MENUS built at based JS, all items of class on web development .",
     "image": "COFEBAR",
     "category": "basicweb",
@@ -141,7 +141,7 @@
  },
     {
     "name": "PSICO Web",
-    "desc": "This website to javaScript projects. based projects are in it.",
+    "desc": "This website to javaScript projects. based projects PROFILE",
     "image": "PSICOWEB",
     "category": "basicweb",
     "links": {
