@@ -107,6 +107,115 @@
     "links": {
       "view": "https://kensumiliante.github.io/kensudev/1ERAmazonEbookElArteDeCocinarKmilia.html",
       "code": "https://amzn.eu/d/7IWQ0Hl"
+[
+  {
+    "name": "Blog wordpress",
+    "desc": "Full-Stack Post automatics wordpress built using plugins, MEAN stack and realtime with payment to newsletter and help of socket.iO",
+    "image": "instagrammern",
+    "category": "mean",
+    "links": {
+      "view": "https://kensumiliante.github.io/kensudev/blog.html",
+      "code": "https://www.youtube.com/k3n5u"
+    }
+  },
+ {
+    "name": "CO2 SECMAS Mobile app",
+    "desc": "C# in VS.NET Basic in Xamarin Resume Generator on your CO2 emitions. Proyect competitor microsoft imagine cup 2013 Vzla by UNA university",
+    "image": "resumegen",
+    "category": "mean",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/kensumiliante"
+    }
+  },
+  {
+    "name": "Medical´s LLM JAKE app",
+    "desc": ".Net using Xbox SDK provides With The model therapy for neuro medical. Proyect competitor microsoft imagine cup 2014 Vzla by UBA university",
+    "image": "issuetrack",
+    "category": "mean",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+ {
+    "name": "Report Call PHP",
+    "desc": "Full-Stack Using LAMP Stack. With PHP at Joomla all major features and OTP authentication and voIP gateway.",
+    "image": "flipkartphp",
+    "category": "mean",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Dashboard for QA Azure",
+    "desc": "Typescript with Admin azure Dashboard and conect ROI ticket Gateway. MEAN Stack WebApp, ready to use for business.",
+    "image": "flipkartmern",
+    "category": "mean",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/miliante/panel"
+    }
+  },
+   {
+    "name": "Community Dev Web",
+    "desc": "Basic website template built using HTML and Bootstrap.",
+    "image": "bootstraptemplate",
+    "category": "basicweb",
+    "links": {
+      "view": "https://kensumiliante.github.io/kensudev/",
+      "code": "https://github.com/kensumiliante/kensudev"
+    }
+  },
+   {
+    "name": "3D Print E-commerce App",
+    "desc": "It's a e-shop uses web view component content MVC provides, Json tycode deploy at servers random data. Login user: admin pass: 1234",
+    "image": "webviewapp",
+    "category": "mean",
+    "links": {
+      "view": "https://shopecommerce.netlify.app/viewstl",
+      "code": "https://github.com/kensumiliante/salesforce-commerce-cloud-starter"
+    }
+  },  
+  {
+    "name": "CookieKits Master Page App",
+    "desc": "Basic cshtml master page for webpage layout allow users to check recipe and kits Cookie, Order Form.",
+    "image": "composey",
+    "category": "basicweb",
+    "links": {
+      "view": "https://www.credly.com/badges/89d0d4a2-889a-4e89-8cca-d2f31afdc520",
+      "code": "#"  
+    }
+  },
+  {
+    "name": "Personal Web Portfolio",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "https://portafoliowebkensu.netlify.app",
+      "code": "#"
+    }
+  },
+  {
+    "name": "ENERGYSUN Panel Calculator Web",
+    "desc": "ENAE course project, is a panel calculator online to thermal sun energy for installations",
+    "image": "basicbank",
+    "category": "basicweb",
+    "links": {
+      "view": "https://energy-sun.netlify.app",
+      "code": "#"
+    }
+  },  
+  {
+    "name": "Food for Menus E-Book",
+    "desc": "Basic website for a food for menus e-book this page built using HTML, CSS, SASS, Bootstrap and jQuery.",
+    "image": "foodwebsite",
+    "category": "basicweb",
+    "links": {
+      "view": "https://kensumiliante.github.io/kensudev/1ERAmazonEbookElArteDeCocinarKmilia.html",
+      "code": "https://amzn.eu/d/7IWQ0Hl"
     }
    },
      {
@@ -116,6 +225,36 @@
     "category": "basicweb",
     "links": {
       "view": "https://stableofhorse.netlify.app",
+      "code": "https://github.com/kensumiliante/"
+    }
+     },
+     {
+    "name": "Hostelry Layout Website",
+    "desc": "This website to restorant is specially build to showcase all major javaScript projects. All my course based projects are in it.",
+    "image": "jspro",
+    "category": "basicweb",
+    "links": {
+      "view": "https://stupendous-rest.netlify.app/",
+      "code": "https://kensumiliante.github.io/kensudev/DISE%C3%91OWEBSHOSTELERIA_Diplomadeaprovechamiento.html"
+     }
+      },
+     {
+    "name": "COFFE BAR Web",
+    "desc": "This website to specially MENUS built at based python, all items of class on web development .",
+    "image": "COFEBAR",
+    "category": "basicweb",
+    "links": {
+      "view": "https://caffetteriabar.netlify.app/",
+      "code": "https://www.credly.com/badges/89d0d4a2-889a-4e89-8cca-d2f31afdc520"
+     } 
+   },
+     {
+    "name": "PSICO Web",
+    "desc": "This website to javaScript projects. based projects are in it.",
+    "image": "PSICOWEB",
+    "category": "basicweb",
+    "links": {
+      "view": "https://psicologadeliamaggi.netlify.app/",
       "code": "https://github.com/kensumiliante/"
     }
      },
