@@ -107,9 +107,10 @@
     "links": {
       "view": "https://kensumiliante.github.io/kensudev/1ERAmazonEbookElArteDeCocinarKmilia.html",
       "code": "https://amzn.eu/d/7IWQ0Hl"
-[
+    }
+  },  
   {
-    "name": "Blog wordpress",
+   "name": "Blog wordpress",
     "desc": "Full-Stack Post automatics wordpress built using plugins, MEAN stack and realtime with payment to newsletter and help of socket.iO",
     "image": "instagrammern",
     "category": "mean",
