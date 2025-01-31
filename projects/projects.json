@@ -141,7 +141,7 @@
  },
     {
     "name": "PSICO Web",
-    "desc": "This website to javaScript projects. based projects Professional profile",
+    "desc": "This website to api googlecalendar projects. based javaScript projects Professional profile",
     "image": "PSICOWEB",
     "category": "basicweb",
     "links": {
@@ -151,7 +151,7 @@
  },    
      {
     "name": "Stable Web",
-    "desc": "This website to stable specially build to horse services, all major javaScript projects. All my course based projects are in it.",
+    "desc": "This website to DeepL Translate API A Stable specially build to horse services All my course based projects are in it.",
     "image": "stable",
     "category": "basicweb",
     "links": {
