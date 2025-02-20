@@ -157,6 +157,16 @@
     "links": {
       "view": "https://stableofhorse.netlify.app",
       "code": "https://www.credly.com/badges/89d0d4a2-889a-4e89-8cca-d2f31afdc520"
+ } 
+},    
+  {
+    "name": "Customersatisfaction",
+    "desc": "Customersatisfaction",
+    "image": "sati",
+    "category": "mean",
+    "links": {
+      "view": " Customersatisfaction.netlify.app ",
+      "code": "https://www.youtube.com/k3n5u"
     }
-      }
+  }
 ]
