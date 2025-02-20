@@ -70,16 +70,6 @@
     }
   },  
   {
-    "name": "CookieKits Master Page App",
-    "desc": "Basic cshtml master page for webpage layout allow users to check recipe and kits Cookie, Order Form.",
-    "image": "composey",
-    "category": "basicweb",
-    "links": {
-      "view": "https://www.credly.com/badges/89d0d4a2-889a-4e89-8cca-d2f31afdc520",
-      "code": "#"  
-    }
-  },
-  {
     "name": "Personal Web Portfolio",
     "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
     "image": "portfolio1",
@@ -119,7 +109,17 @@
       "code": "https://kensumiliante.github.io/kensudev/DISE%C3%91OWEBSHOSTELERIA_Diplomadeaprovechamiento.html"
      }
       },
-     {
+{
+    "name": "CookieKits Master Page App",
+    "desc": "Basic cshtml master page for webpage layout allow users to check recipe and kits Cookie, Order Form.",
+    "image": "composey",
+    "category": "basicweb",
+    "links": {
+      "view": "https://www.credly.com/badges/89d0d4a2-889a-4e89-8cca-d2f31afdc520",
+      "code": "#"  
+    }
+  },
+   {
     "name": "Website for menus food",
     "desc": "This website to specially MENU built at based JS, all items of class on web development .",
     "image": "COFEBAR",
@@ -138,8 +138,18 @@
       "view": "https://reservasiento.netlify.app/pythonreservasasientoemailv2",
       "code": "https://www.credly.com/badges/89d0d4a2-889a-4e89-8cca-d2f31afdc520"
      } 
- },
-    {
+},    
+  {
+    "name": "Customersatisfaction",
+    "desc": "Customersatisfaction",
+    "image": "sati",
+    "category": "mean",
+    "links": {
+      "view": " Customersatisfaction.netlify.app ",
+      "code": "https://www.youtube.com/k3n5u" ,
+   }
+ },    
+     {
     "name": "PSICO Web",
     "desc": "This website to api googlecalendar projects. based javaScript projects Professional profile",
     "image": "PSICOWEB",
@@ -157,16 +167,6 @@
     "links": {
       "view": "https://stableofhorse.netlify.app",
       "code": "https://www.credly.com/badges/89d0d4a2-889a-4e89-8cca-d2f31afdc520"
- } 
-},    
-  {
-    "name": "Customersatisfaction",
-    "desc": "Customersatisfaction",
-    "image": "sati",
-    "category": "mean",
-    "links": {
-      "view": " Customersatisfaction.netlify.app ",
-      "code": "https://www.youtube.com/k3n5u"
-    }
+ }
   }
 ]
