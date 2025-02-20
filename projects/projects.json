@@ -80,7 +80,7 @@
     }
   },
   {
-    "name": "ENERGYSUN Panel Calculator Web",
+    "name": "ENERGY OF SUN Panel Calculator Web",
     "desc": "ENAE course project, is a panel calculator online to thermal sun energy for installations",
     "image": "basicbank",
     "category": "basicweb",
@@ -99,16 +99,6 @@
       "code": "https://amzn.eu/d/7IWQ0Hl"
     }
      },
-     {
-    "name": "Hostelry Layout Website",
-    "desc": "This website to restorant is specially build to showcase all major javaScript projects. All my course based projects are in it.",
-    "image": "jspro",
-    "category": "basicweb",
-    "links": {
-      "view": "https://www.credly.com/badges/89d0d4a2-889a-4e89-8cca-d2f31afdc520",
-      "code": "https://kensumiliante.github.io/kensudev/DISE%C3%91OWEBSHOSTELERIA_Diplomadeaprovechamiento.html"
-     }
-      },
 {
     "name": "CookieKits Master Page App",
     "desc": "Basic cshtml master page for webpage layout allow users to check recipe and kits Cookie, Order Form.",
@@ -116,7 +106,7 @@
     "category": "basicweb",
     "links": {
       "view": "https://www.credly.com/badges/89d0d4a2-889a-4e89-8cca-d2f31afdc520",
-      "code": "#"  
+      "code": "https://kensumiliante.github.io/kensudev/DISE%C3%91OWEBSHOSTELERIA_Diplomadeaprovechamiento.html"  
     }
   },
    {
