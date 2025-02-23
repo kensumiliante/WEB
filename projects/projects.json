@@ -90,7 +90,7 @@
     }
   },  
   {
-    "name": "Food for Menus E-Book",
+    "name": "E-Book Food",
     "desc": "Basic website for a food for menus e-book this page built using HTML, CSS, SASS, Bootstrap and jQuery.",
     "image": "foodwebsite",
     "category": "basicweb",
