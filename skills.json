@@ -4,6 +4,14 @@
         "icon": "https://img.icons8.com/?size=48&id=71257&format=png"
     },
     {
+        "name": "Jest",
+        "icon": "https://img.icons8.com/color/48/000000/jest-can-collect-code-coverage-information-from-entire-projects.png"
+    },
+    {
+        "name": "Tableu",
+        "icon": "https://icons8.com/icon/9Kvi1p1F0tUo/tableau-software.png"
+    },
+    {
         "name": "ExpressJS",
         "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
     },
@@ -12,16 +20,12 @@
         "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
     },
     {
-        "name": "Redux",
-        "icon": "https://img.icons8.com/color/48/000000/redux.png"
+        "name": "Android",
+        "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
     },
     {
         "name": "Firebase",
         "icon": "https://img.icons8.com/color/48/000000/firebase.png"
-    },
-    {
-        "name": "Android",
-        "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
     },
     {
         "name": "MaterialUI",
@@ -76,14 +80,6 @@
         "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
     },
     {
-        "name": "C#",
-        "icon": "https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"
-    },
-    {
-        "name": "MariaDB",
-        "icon": "https://img.icons8.com/color/000000/mariadb.png"
-    },
-    {
         "name": "MongoDB",
         "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
     },
@@ -100,16 +96,8 @@
         "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
     },
     {
-        "name": "Stripe",
-        "icon": "https://img.icons8.com/color/48/000000/stripe.png"
-    },
-    {
-        "name": "Jest",
-        "icon": "https://img.icons8.com/color/48/000000/jest-can-collect-code-coverage-information-from-entire-projects.png"
-    },
-    {
-        "name": "Tableu",
-        "icon": "https://icons8.com/icon/9Kvi1p1F0tUo/tableau-software.png"
+        "name": "Heroku",
+        "icon": "https://img.icons8.com/color/48/000000/heroku.png"
     },
     {
         "name": "Netlify",
