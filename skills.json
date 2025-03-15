@@ -72,6 +72,10 @@
         "icon": "https://img.icons8.com/?size=48&id=45490&format=png&color=000000"
     },
     {
+        "name": "SQL",
+        "icon": "https://img.icons8.com/?size=48&id=J6KcaRLsTgpZ&format=png&color=000000"
+    },
+    {
         "name": "MongoDB",
         "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
     },
@@ -87,6 +91,14 @@
         "name": "AWS",
         "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
     },
+    {
+        "name": "Selenium",
+        "icon": "https://img.icons8.com/?size=48&id=VOnRj9vGpXV8&format=png&color=000000"
+    },
+    {
+        "name": "Jenkins",
+        "icon": "https://img.icons8.com/?size=48&id=39292&format=png&color=000000"
+    },   
     {
         "name": "Netlify",
         "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
@@ -126,5 +138,9 @@
     {
         "name": "Uipath",
         "icon": "https://img.icons8.com/?size=48&id=HhCUhcFcSjU8&format=png&color=000000"
-    }
+    },
+    {
+        "name": "PowerBI",
+        "icon": "https://img.icons8.com/?size=48&id=qYfwpsRXEcpc&format=png&color=000000"
+    }    
 ]
