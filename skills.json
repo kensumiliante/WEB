@@ -124,23 +124,31 @@
         "icon": "https://img.icons8.com/?size=48&id=kEkT1u7zTDk5&format=png&color=000000"
     },
     {
-        "name": "Hugging-face",
+        "name": "Hugging face",
         "icon": "https://img.icons8.com/?size=48&id=sop9ROXku5bb&format=png&color=000000"
     },
     {
-        "name": "Firebase-ML",
+        "name": "Firebase ML",
         "icon": "https://img.icons8.com/?size=48&id=0U744R4FqOqF&format=png&color=000000"
     },
     {
-        "name": "Runway",
+        "name": "Runway ia",
         "icon": "https://img.icons8.com/?size=48&id=DpIYI1a8DczY&format=png&color=000000"
     },
     {
-        "name": "Uipath",
+        "name": "Uipath RPA",
         "icon": "https://img.icons8.com/?size=48&id=HhCUhcFcSjU8&format=png&color=000000"
     },
     {
-        "name": "PowerBI",
+        "name": "Power BI",
         "icon": "https://img.icons8.com/?size=48&id=qYfwpsRXEcpc&format=png&color=000000"
+    },
+    {
+        "name": "Power Apps",
+        "icon": "https://img.icons8.com/?size=48&id=jXuZmZPUKCPS&format=png&color=000000"
+    },
+    {
+        "name": "Power Automate",
+        "icon": "https://img.icons8.com/?size=48&id=meQNCLIW9XBZ&format=png&color=000000"
     }    
 ]
